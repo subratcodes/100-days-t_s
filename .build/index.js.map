@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index.ts"],
+  "sourcesContent": ["const s: string = \"hello world!\";\nconsole.log(s);\n\nconst a:number='blah'\nconsole.log(a)\n"],
+  "mappings": ";AAAA,MAAM,IAAY;AAClB,QAAQ,IAAI,CAAC;AAEb,MAAM,IAAS;AACf,QAAQ,IAAI,CAAC;",
+  "names": []
+}
