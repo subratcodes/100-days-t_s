@@ -1,5 +1,10 @@
+
+
+
 const s: string = "hello world!";
 console.log(s);
 
-const a:number='blah'
-c
+let arr: boolean[]=[]
+arr.push("subrat")
+console.log(arr[0])
+

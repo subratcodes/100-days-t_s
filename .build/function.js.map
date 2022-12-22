@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../function.ts"],
+  "sourcesContent": ["function add(a:number,b:number){\n  return a+b\n}"],
+  "mappings": ";AAAA,SAAS,IAAI,GAAS,GAAS;AAC7B,SAAO,IAAE;AACX;",
+  "names": []
+}
