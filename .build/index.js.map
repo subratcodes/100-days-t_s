@@ -1,7 +1,7 @@
 {
   "version": 3,
   "sources": ["../index.ts"],
-  "sourcesContent": ["\n\n\nconst s: string = \"hello world!\";\nconsole.log(s);\n\nlet arr: boolean[]=[]\narr.push(\"subrat\")\nconsole.log(arr[0])\n\n"],
-  "mappings": ";AAGA,MAAM,IAAY;AAClB,QAAQ,IAAI,CAAC;AAEb,IAAI,MAAe,CAAC;AACpB,IAAI,KAAK,QAAQ;AACjB,QAAQ,IAAI,IAAI,EAAE;",
-  "names": []
+  "sourcesContent": ["import add from './function';\n\n\nconsole.log(add)\n\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;AAAA,sBAAgB;AAGhB,QAAQ,IAAI,gBAAAA,OAAG;",
+  "names": ["add"]
 }
